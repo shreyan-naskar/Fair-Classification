@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# messy beginner version for task D
-
 from pathlib import Path
 import csv
 import math

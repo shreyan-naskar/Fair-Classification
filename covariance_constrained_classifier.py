@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# messy beginner style version
-
 from pathlib import Path
 import csv
 import numpy as np
